@@ -16,7 +16,7 @@ Add the JS and CSS to your template:
 ```
 
 ```html
-<script src="<?php echo asset('vendor/luria/js/laravelMedialayer.js')?>"></script>
+<script src="<?php echo asset('vendor/luria/js/laravelMediaPlayer.js')?>"></script>
 ```
 
 Call the component, e.g.
