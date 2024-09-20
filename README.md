@@ -1,3 +1,5 @@
+IN DEVELPOMNET STAGE. DO NOT USE. IT WILL NOT WORK
+
 ## Laravel Media Player
 
 Laravel component HTML5 simple audio/video player.
