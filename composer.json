@@ -1,0 +1,26 @@
+{
+    "name": "luria/laravel-media-player",
+    "description": "Laravel component to add simple audio/video player.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luria\\LaravelMediaPlayer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luria",
+            "email": "luriaddf@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Luria\\LaravelMediaPlayer\\LaravelMediaPlayerServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
